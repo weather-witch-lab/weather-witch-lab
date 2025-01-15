@@ -20,16 +20,16 @@ Iris is an intelligent AI agent that delivers:
 ## 🛣️ Roadmap
 
 ### Phase 1: Foundation
-- Advanced AI weather forecasting system
-- Global climate pattern analysis
-- Social platform integration
-- Real-time extreme weather alerts
+- Advanced AI weather forecasting system✔️
+- Global climate pattern analysis✔️
+- Integration with major social platforms✔️
+- Real-time extreme weather alerts✔️
 
 ### Phase 2: Expansion
-- Mobile apps (iOS/Android)
-- Personalized insights
-- Community weather reporting
-- Smart home integration
+- Iris mobile app for iOS and Android
+- Personalized weather insights
+- Community-driven weather reporting
+- Integration with smart home devices
 
 ## 🔗 Connect With Us
 
