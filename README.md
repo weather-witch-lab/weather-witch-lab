@@ -33,7 +33,7 @@ Iris is an intelligent AI agent that delivers:
 
 ## 🔗 Connect With Us
 
-- [Official Website](https://www.weather-witch-ai.com/)
+- [Official Website](https://www.weather-witch-lab.com/)
 - [Follow on X](https://x.com/WeatherWitchLab)
 - [View Whitepaper](https://www.weather-witch-ai.com/whitepaper)
 
