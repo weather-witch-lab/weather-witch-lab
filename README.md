@@ -1,10 +1,10 @@
 # Weather Witch Lab 🌦️
 
-Welcome to Weather Witch Lab, home of Iris - your advanced AI weather agent powered by Google DeepMind and ECMWF technologies.
+Welcome to Weather Witch Lab, home of World Weather AI - your advanced AI weather agent powered by Google DeepMind and ECMWF technologies.
 
-## 🤖 Meet Iris
+## 🤖 Meet World Weather AI
 
-Iris is an intelligent AI agent that delivers:
+World Weather AI is an intelligent AI agent that delivers:
 - Hyper-local weather predictions
 - Climate trend analysis
 - Supply chain weather optimization
@@ -26,7 +26,7 @@ Iris is an intelligent AI agent that delivers:
 - Real-time extreme weather alerts✔️
 
 ### Phase 2: Expansion
-- Iris mobile app for iOS and Android
+- World Weather AI mobile app for iOS and Android
 - Personalized weather insights
 - Community-driven weather reporting
 - Integration with smart home devices
