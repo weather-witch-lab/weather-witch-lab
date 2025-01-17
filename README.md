@@ -35,7 +35,7 @@ World Weather AI is an intelligent AI agent that delivers:
 
 - [Official Website](https://www.weather-witch-lab.com/)
 - [Follow on X](https://x.com/WeatherWitchLab)
-- [View Whitepaper](https://pdflink.to/irisweatherai/)
+- [View Whitepaper](https://pdflink.to/weatherpp)
 
 ## 📜 License
 © 2025 Weather Witch Lab. All rights reserved.
